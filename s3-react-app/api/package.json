@@ -1,0 +1,9 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-single-page-app-plugin": "file:./serverless-single-page-app-plugin/"
+  }
+}
